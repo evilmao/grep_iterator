@@ -9,7 +9,8 @@
 
 **`fnmatch.filter`** ----> 参考[Python fnmatch 模块](http://blog.csdn.net/u011653701/article/details/46276399)
 
-
+# 参考知识点
+- yield使用
 
 
 
